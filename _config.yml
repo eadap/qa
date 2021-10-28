@@ -1,7 +1,7 @@
 # Site settings
 title: Question2Answer documentation
-url: https://eadap.github.io
-baseurl: /qa
+url: https://eadap.github.io/qa
+baseurl: /
 permalink: pretty
 exclude: [vendor]
 
